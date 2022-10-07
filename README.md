@@ -1,4 +1,15 @@
+# This is my introdction
+
 ### Hi there 👋
+
+- 🔭 I’m currently working on *the evolution of genomes* with fruit flies.
+
+I am working as a PhD student at **UCI**. 
+
+In addition to my research, welcome to visit my [Flickr Album](https://www.flickr.com/photos/oscar56312/albums)
+
+
+
 
 <!--
 **jyw-atgithub/jyw-atgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
