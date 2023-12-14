@@ -4,6 +4,13 @@
 
 - 🔭 I’m currently working on *the evolution of genomes* with fruit flies.
 
+
+### My experteis
+- genomics
+- long-read data processing
+- plant biology
+- wet lab
+
 I am working as a PhD student at **UCI**. 
 
 In addition to my research, welcome to visit my [Flickr Album](https://www.flickr.com/photos/oscar56312/albums)
