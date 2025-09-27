@@ -11,6 +11,7 @@
 - Population genetics: Detecting natural selection by all means even though I am neutral. Haha.
 - Plant biology. Although I am gaining many bioinformatics, I still preserve my heart of a naturalist. 
 - Other wet lab: PCR, pulsed field gel electrophoresis, HMW DNa extraction ..... and most of the basics. No proteomics so far. I have done mouse works while I was a medical student but this is not my type.
+- Coding: I view myself as a biology and bioinformatic "user" instead of a developer, so I am good at finding adequate tools and connect them together. Bash script is used most frequently. Of course, programming in R is essential as well while tidyverse is my favorite. Sometimes, Python helps.
 - Petting cute animals, in cluding Shiba inu, corgi, golden retriver, cat, rabbit and more.
 
 ### My Projects in PhD training
