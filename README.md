@@ -1,17 +1,22 @@
-# This is my introdction
+# Here is the GitHub page of an academic labor. lol
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on *the evolution of genomes* with fruit flies.
+- 🔭 I’m currently a 5-th year PhD student (candidate) at the Department of Ecology and Evolutionary Biology, University of California Irvine. 
 
 
 ### My experteis
-- genomics
-- long-read data processing
-- plant biology
-- wet lab
+- Oxford Nanopore sequencing: I am using our new PromethION P2 Solo to sequence Drosophila and Peromyscus (deermice, [very cute!](https://www.coniferousforest.com/wp-content/uploads/2016/12/Deer-Mouse-Pictures.jpg)) species. Lately, my read N50 of Drosophila sequences are 20 to 28kb (Usually 10 to 16 kb in recent publications). The read N50 of Peromyscus is 33-44 kb (typical performance).
+- Genomics: Basically all operations with illumina short reads, PacBio CLR, PacBio Hifi, ONT R9 and modern ONT R10 Q20 reads. Fine genome assembly, annotation and variant calling are my daily life.
+- Population genetics: Detecting natural selection by all means even though I am neutral. Haha.
+- Plant biology. Although I am gaining many bioinformatics, I still preserve my heart of a naturalist. 
+- Other wet lab: PCR, pulsed field gel electrophoresis, HMW DNa extraction ..... and most of the basics. No proteomics so far. I have done mouse works while I was a medical student but this is not my type.
+- Petting cute animals, in cluding Shiba inu, corgi, golden retriver, cat, rabbit and more.
 
-I am working as a PhD student at **UCI**. 
+### My Projects in PhD training
+1. **Fish genome** We found some digestive enzyme genes (amylase, trypsin, lipase, chitinases) displayed inter-species variation and its correlated with their diet. We are about to submit it to the journal.
+2. **Structural variants** This work was presented in 2025 Drosophila Annual meeting. The manuscript is on its way.
+3. **Sequencing bias** I am trying to figure out why Drosophila is so hard to sequence with ONT (and other) technologies. This is a developing project.
 
 In addition to my research, welcome to visit my [Flickr Album](https://www.flickr.com/photos/oscar56312/albums)
 
