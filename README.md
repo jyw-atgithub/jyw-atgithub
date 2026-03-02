@@ -6,7 +6,7 @@
 
 
 ### My experteis
-- Oxford Nanopore sequencing: I am using our new PromethION P2 Solo to sequence Drosophila and Peromyscus (deermice, [very cute!](https://www.coniferousforest.com/wp-content/uploads/2016/12/Deer-Mouse-Pictures.jpg)) species. Lately, my read N50 of Drosophila sequences are 28 to 42kb (Usually 10 to 16 kb in recent publications, max=28.3 kb). The read N50 of Peromyscus (cute mammals) is 33-44 kb (typical performance).
+- Oxford Nanopore sequencing: I am using our new PromethION P2 Solo to sequence Drosophila and Peromyscus (deermice, [very cute!](https://www.coniferousforest.com/wp-content/uploads/2016/12/Deer-Mouse-Pictures.jpg)) species. Lately, my read N50 of Drosophila sequences are 28 to 42kb (Usually 10 to 16 kb in recent publications, max=28.3 kb). The read N50 of Peromyscus is 33-44 kb (typical performance).
 - Genomics: Basically all operations with illumina short reads, PacBio CLR, PacBio Hifi, ONT R9 and modern ONT R10 Q20 reads. Fine genome assembly, annotation and variant calling are my daily life.
 - Population genetics: Detecting natural selection by all means even though I am neutral. Haha.
 - Plant biology. Although I am gaining many bioinformatics, I still preserve my heart of a naturalist. 
