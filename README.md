@@ -6,11 +6,11 @@
 
 
 ### My experteis
-- Oxford Nanopore sequencing: I am using our new PromethION P2 Solo to sequence Drosophila and Peromyscus (deermice, [very cute!](https://www.coniferousforest.com/wp-content/uploads/2016/12/Deer-Mouse-Pictures.jpg)) species. Lately, my read N50 of Drosophila sequences are 20 to 28kb (Usually 10 to 16 kb in recent publications). The read N50 of Peromyscus is 33-44 kb (typical performance).
+- Oxford Nanopore sequencing: I am using our new PromethION P2 Solo to sequence Drosophila and Peromyscus (deermice, [very cute!](https://www.coniferousforest.com/wp-content/uploads/2016/12/Deer-Mouse-Pictures.jpg)) species. Lately, my read N50 of Drosophila sequences are 28 to 42kb (Usually 10 to 16 kb in recent publications, max=28.3 kb). The read N50 of Peromyscus (cute mammals) is 33-44 kb (typical performance).
 - Genomics: Basically all operations with illumina short reads, PacBio CLR, PacBio Hifi, ONT R9 and modern ONT R10 Q20 reads. Fine genome assembly, annotation and variant calling are my daily life.
 - Population genetics: Detecting natural selection by all means even though I am neutral. Haha.
 - Plant biology. Although I am gaining many bioinformatics, I still preserve my heart of a naturalist. 
-- Other wet lab: PCR, pulsed field gel electrophoresis, HMW DNa extraction ..... and most of the basics. No proteomics so far. I have done mouse works while I was a medical student but this is not my type.
+- Other wet lab: PCR, pulsed field gel electrophoresis, HMW DNA extraction ..... and most of the basics. No proteomics so far. I have done mouse works while I was a medical student but this is not my type.
 - Coding: I view myself as a biology and bioinformatic "user" instead of a developer, so I am good at finding adequate tools and connect them together. Bash script is used most frequently. Of course, programming in R is essential as well while tidyverse is my favorite. Sometimes, Python helps.
 - Petting cute animals, in cluding Shiba inu, corgi, golden retriver, cat, rabbit and more.
 
