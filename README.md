@@ -21,7 +21,8 @@
 3. **Sequencing bias** I am trying to figure out why Drosophila is so hard to sequence with ONT (and other) technologies. This is a developing project.
 
 In addition to my research, welcome to visit my [Flickr Album](https://www.flickr.com/photos/oscar56312/albums)
-If you are a tea person, let's hang out! Definition of tea here: the products made from young leaves of Camellia sinensis (var. sinensis or var. assamica) without blending 
+
+If you are a tea person, let's hang out! Definition of tea here: the products made from young leaves of Camellia sinensis (var. sinensis or var. assamica) without blending too much other ingredients and/or flavors.
 
 
 
