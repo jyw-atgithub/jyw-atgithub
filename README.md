@@ -1,12 +1,12 @@
 # Here is the GitHub page of an academic labor. lol
 
-### jenyuw@uci.edu
+### Jen-Yu Wang. jenyuw@uci.edu
 
 - 🔭 I’m currently a 5-th year PhD student (candidate) at the Department of Ecology and Evolutionary Biology, University of California Irvine. 
 
 
 ### My experteis
-- Oxford Nanopore sequencing: I am using our new PromethION P2 Solo to sequence Drosophila and Peromyscus (deermice, [very cute!](https://www.coniferousforest.com/wp-content/uploads/2016/12/Deer-Mouse-Pictures.jpg)) species. With the ligation sequencing kit (LSK114) my read N50 of Drosophila sequences are 30 to 42kb (Usually 10 to 16 kb in recent publications, max=28.3 kb). The read N50 of Peromyscus is 33-44 kb (typical performance). Lately, I made the ultra-long seuqencing kit (ULK114) work with Drosophila DNA, while the N50 ranges between 60 to 72 kb. More detailes, please check the repository: [Sequencing_Milestones](Sequencing_Milestones)
+- Oxford Nanopore sequencing: I am using our new PromethION P2 Solo to sequence *Drosophila* and *Peromyscus* (deermice, [very cute!](https://www.coniferousforest.com/wp-content/uploads/2016/12/Deer-Mouse-Pictures.jpg)) species. With the ligation sequencing kit (LSK114) my read N50 of *Drosophila* sequences are 30 to 42kb (Usually 10 to 16 kb in recent publications, max=28.3 kb). The read N50 of *Peromyscus* is 33-44 kb (typical performance). Lately, I made the ultra-long seuqencing kit (ULK114) work with *Drosophila* DNA, while the N50 ranges between 60 to 72 kb. More detailes, please check the repository: [Sequencing_Milestones](https://github.com/jyw-atgithub/Sequencing_Milestones)
 - Genomics: Basically all operations with illumina short reads, PacBio CLR, PacBio Hifi, ONT R9 and modern ONT R10 Q20 reads. Fine genome assembly, annotation and variant calling are my daily life.
 - Population genetics: Detecting natural selection by all means even though I am neutral. Haha.
 - Plant biology. Although I am gaining many bioinformatics, I still preserve my heart of a naturalist. 
