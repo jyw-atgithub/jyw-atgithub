@@ -18,7 +18,7 @@
 ### My Projects in PhD training
 1. **Fish genome** This is a collaboration with the German Lab at UCI. We found some digestive enzyme genes (amylase, trypsin, lipase, chitinases) displayed inter-species variation and its correlated with their diet. The manuscription is in the submition process.
 2. **Structural variants** Structural variants represent complex and diverse groups of variants. We found duplications were less selected than deletions and insertions. Transposablements and other repeats also had much different fitness. We are about to submit it to the journal.
-3. **Sequencing bias** I am trying to figure out why Drosophila is so hard to sequence with ONT (and other) technologies. An oral presentation was given in 2025 Annual Drosophila Research Conference. The manuscription is being written.
+3. **Sequencing bias** I am trying to figure out why Drosophila is so hard to sequence with ONT (and other) technologies. An oral presentation was given in 2026 Annual Drosophila Research Conference. The manuscription is being written.
 
 In addition to my research, welcome to visit my [Flickr Album](https://www.flickr.com/photos/oscar56312/albums)
 
