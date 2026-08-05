@@ -11,14 +11,14 @@
 - Population genetics: Detecting natural selection by all means even though I am neutral. Haha.
 - Plant is my first love!! Although I am gaining many bioinformatics, I still preserve my heart of a naturalist. 
 - Other wet lab: PCR, pulsed field gel electrophoresis, HMW DNA extraction ..... and most of the basics. No proteomics so far. I have done mouse works while I was a medical student but this is not my type.
-- Coding: I view myself as a biology and bioinformatic "user" instead of a developer, so I am good at finding adequate tools and connect them together. Bash script is used most frequently. Of course, programming in R is essential as well while tidyverse is my favorite. Sometimes, Python helps.
+- Coding: I view myself as a biology and bioinformatic "user", so I am good at finding adequate tools and connect them together. Bash script is used most frequently. Of course, programming in R is essential as well while tidyverse is my favorite. Sometimes, Python helps.
 - Petting cute animals, in cluding Shiba inu, corgi, golden retriver, cats, rabbits and more. Plant-like animals fascinate me. Who knows how to grow *Trichoplax* ?
 - These are not my favorites: worms, spiders, reptiles (yes, including dinosaurs), amphibians and some primates. 
 
 ### My Projects in PhD training
-1. **Fish genome** We found some digestive enzyme genes (amylase, trypsin, lipase, chitinases) displayed inter-species variation and its correlated with their diet. We are about to submit it to the journal.
-2. **Structural variants** This work was presented in 2025 Annual Drosophila Research Conference and I will give a talk on this in the 2026 PEQG Conference. The manuscript is on its way.
-3. **Sequencing bias** I am trying to figure out why Drosophila is so hard to sequence with ONT (and other) technologies. This is a developing project.
+1. **Fish genome** This is a collaboration with the German Lab at UCI. We found some digestive enzyme genes (amylase, trypsin, lipase, chitinases) displayed inter-species variation and its correlated with their diet. The manuscription is in the submition process.
+2. **Structural variants** Structural variants represent complex and diverse groups of variants. We found duplications were less selected than deletions and insertions. Transposablements and other repeats also had much different fitness. We are about to submit it to the journal.
+3. **Sequencing bias** I am trying to figure out why Drosophila is so hard to sequence with ONT (and other) technologies. An oral presentation was given in 2025 Annual Drosophila Research Conference. The manuscription is being written.
 
 In addition to my research, welcome to visit my [Flickr Album](https://www.flickr.com/photos/oscar56312/albums)
 
